@@ -1,0 +1,1 @@
+This is the newest version of my scholar project, implementing responsive web design and SASS, made it from scratch, you can see a description about the project in the next link: https://osvaldo-navarrete.github.io/ProyectoFinalPOO.github.io/
